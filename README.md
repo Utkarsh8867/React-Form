@@ -67,4 +67,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+# Data Scientist Job Application Form
+
+This is a simple and attractive **React** form designed for a **Data Scientist Job Application**. It collects essential information from candidates, such as:
+
+- Full Name
+- Email
+- Phone Number
+- GitHub Profile
+- LinkedIn Profile
+- Skills (comma-separated)
+- Years of Experience
+- Upload Resume
+- Cover Letter
+
+## Features
+
+- **User-Friendly Interface**: The form is designed to be simple and clean, with easy-to-fill fields.
+- **Input Validation**: Required fields are marked, and the form ensures that all mandatory data is provided before submission.
+- **File Upload**: Candidates can upload their resume along with the application.
+- **Responsive Design**: The form is styled to be responsive, ensuring that it looks good on both desktop and mobile devices.
+- **CSS Styling**: The form is styled using custom CSS for a more attractive and professional appearance.
+
+## Technologies Used
+
+- **Frontend**: React.js for building the user interface.
+- **State Management**: React's `useState` hook to manage form data.
+- **CSS**: Custom styling to make the form visually appealing.
+- **Backend (optional)**: The form can be extended to connect to a backend (e.g., using Node.js and MySQL) for storing and processing the submitted data.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/data-scientist-job-application-form.git
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
